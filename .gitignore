@@ -225,4 +225,4 @@ fabric.properties
 # Security reports
 bandit-report.json
 
-history/
+.history/
