@@ -16,5 +16,5 @@ A modern Python package with complete CI/CD setup
 
 ## Documentation
 
-- **[Setup Guide](SETUP.md)** - Initial project configuration
-- **[Development Workflow](WORKFLOW.md)** - How to contribute and work with the project
+- **[Setup Guide](https://github.com/serafinovsky/demo-example-package/blob/master/SETUP.md)** - Initial project configuration
+- **[Development Workflow](https://github.com/serafinovsky/demo-example-package/blob/master/WORKFLOW.md)** - How to contribute and work with the project
