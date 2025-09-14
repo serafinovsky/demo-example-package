@@ -35,7 +35,7 @@ git commit -m "chore: update dependencies"
 
 Releases are automated using [Release Please](https://github.com/googleapis/release-please):
 
-1. **Merge PRs** to `main` or `master` branch
+1. **Merge PRs** to `master` branch
 2. **Release Please** automatically:
    - Generates changelog from conventional commits
    - Creates release PR with version bump
