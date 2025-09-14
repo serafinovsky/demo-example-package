@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/serafinovsky/demo-example-package/compare/demo-example-package-v0.1.3...demo-example-package-v0.1.4) (2025-09-14)
+
+
+### Bug Fixes
+
+* make status stable ([#7](https://github.com/serafinovsky/demo-example-package/issues/7)) ([4263ac2](https://github.com/serafinovsky/demo-example-package/commit/4263ac273cfa5f504f6660fa7d639453a2a2f13a))
+
 ## [0.1.3](https://github.com/serafinovsky/demo-example-package/compare/demo-example-package-v0.1.2...demo-example-package-v0.1.3) (2025-09-14)
 
 
