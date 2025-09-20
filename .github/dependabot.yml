@@ -11,6 +11,3 @@ updates:
       all-pip-deps:
         patterns:
           - "*"
-    post-update-commands:
-      - "pipx install uv"
-      - "uv lock"
