@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.REPO_ADMIN_TOKEN }}
       - uses: astral-sh/setup-uv@v3
         with:
           enable-cache: true
@@ -24,4 +22,3 @@ jobs:
         with:
           commit_message: Regenerate uv.lock
           file_pattern: uv.lock
-          skip_dirty_check: false
