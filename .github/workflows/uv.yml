@@ -22,4 +22,3 @@ jobs:
         with:
           commit_message: Regenerate uv.lock
           file_pattern: uv.lock
-          skip_dirty_check: false
