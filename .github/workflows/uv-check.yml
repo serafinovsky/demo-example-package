@@ -2,7 +2,6 @@ name: Check UV Lockfile
 
 on:
   pull_request:
-    paths: ["pyproject.toml"]
 
 jobs:
   check-lock:
