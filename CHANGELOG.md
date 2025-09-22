@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/serafinovsky/demo-example-package/compare/demo-example-package-v0.1.5...demo-example-package-v0.1.6) (2025-09-22)
+
+
+### Bug Fixes
+
+* **deps:** bump bandit from 1.8.0 to 1.8.6 in the all-pip-deps group ([#33](https://github.com/serafinovsky/demo-example-package/issues/33)) ([a19c48f](https://github.com/serafinovsky/demo-example-package/commit/a19c48ffb12f9972d04076908ed3620a4da245ef))
+
 ## [0.1.5](https://github.com/serafinovsky/demo-example-package/compare/demo-example-package-v0.1.4...demo-example-package-v0.1.5) (2025-09-20)
 
 
