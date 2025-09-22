@@ -4,6 +4,10 @@ on:
   pull_request_target:
     paths: ["pyproject.toml"]
 
+concurrency:
+  group: update-lock-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
 jobs:
   update-lock:
     if: github.actor == 'dependabot[bot]'
