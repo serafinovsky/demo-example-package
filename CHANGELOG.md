@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.9](https://github.com/serafinovsky/demo-example-package/compare/v0.1.8...v0.1.9) (2025-09-28)
+
+
+### Bug Fixes
+
+* **deps:** bump the all-pip-deps group across 1 directory with 2 updates ([#43](https://github.com/serafinovsky/demo-example-package/issues/43)) ([01d5fe2](https://github.com/serafinovsky/demo-example-package/commit/01d5fe28aa0f339ae442e9d5263c9643556e4739))
+
 ## [0.1.8](https://github.com/serafinovsky/demo-example-package/compare/v0.1.7...v0.1.8) (2025-09-22)
 
 
